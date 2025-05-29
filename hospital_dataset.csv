@@ -1,0 +1,1023 @@
+Patient_ID,Age,Gender,Condition,Procedure,Cost,Length_of_stay,Readmission,Outcome,Satisfaction
+606,40,Male,,General Check-up,2728.06,12.0,No,Discharged  ,3.0
+671,12,Female,Diabetes,MRI Scan,85.16,25.0,Yes,Discharged,4.0
+327,50,Female,HEART tISEASE   ,MRI Scan  n,,15.0,No,,2.0
+419,67,Male,Diabetes,Dialysis,8469.21,8.0,No,DISCHARGED,4.0
+409,4,Male,sronchitis,Consultation,810.31,,No,Discharged,2.0
+110,55,Male,Influenza  ,chemotherapy,7449.49,29.0,No,Deceased,3.0
+984,81,Female,PNEUMONIA,physical therapy,9229.06,22.0,No,Deceased,3.0
+779,55,Female,PNEUMONIA,Blood Test,4461.49,21.0,No,Deceased  ,3.0
+243,22,Male,Appendicitis,consultation,4702.46,12.0,No,,4.0
+824,78,Male,Migraine,Endoscopy,8526.04,25.0,No,,4.0
+15,26,Female,Migraine,Endosdopy  ,6537.76,5.0,No,Discharggd,4.0
+66,71,Male,Hypertension,MRI Scan,8611.71,3.0,No,Discharged,1.0
+742,38,Female,Influenza ,DjALYSIS,3812.29,5.0,No,,
+70,7,Male,Asthma,dialysis,8004.38,19.0,No,Discharged   ,4.0
+54,30,Female,,physical therapy   ,2650.63,25.0,No,DISCHARGED,2.0
+173,47,Female,INFLUENbA,Chemotherapy,6292.36,23.0,No,STABLE,3.0
+1000,24,Female,influenza,endoscopy,3864.09,14.0,No,Deceased,3.0
+338,57,Female,Hypertension,Vaccination,4846.55,18.0,No,Discharged,2.0
+372,70,Male,Influenza,Vaccination  ,4565.53,6.0,No,Discharged,1.0
+627,48,f,Diabetes,Dialysis,5489.85,,No,Transferred,4.0
+209,42,Female,PNEUMOiIA,,3237.75,11.0,Yes,Discharged,4.0
+118,23,Male,Migraine,Endoscopy   ,7522.97,,No,discharged,2.0
+730,38,Male,HYPERTENSION,MRI Scan   ,8913.66,21.0,No,Stable h,4.0
+666,25,Female,Influenza,Chemotherapy  ,8699.47,9.0,Yes,Discharged ,3.0
+137,19,Female,HEART DISEASE,chemotherapy,3970.92,16.0,No,discharged ,1.0
+452,22,Male,Pneumonia  ,MRI Scan,482.0,90,No,Discharged,0
+113,88,Female,APPENDICITIS,MRI SCAN,4963.74,28.0,No,Discharged,4.0
+210,41,Male,frmcture   ,MRI SCAN,1501.42,26.0,No,Discharged,3.0
+138,55,Male,BRONCHITIS,General Check-up,5853.41,16.0,No,Discharged,1.0
+468,24,Female,Pneumonia,blood test,6573.88,6.0,No,Transferred ,2.0
+813,57,Female,MIGRAINE,Dialysis,4355.93,4.0,Yes,Dfscharged,2.0
+323,25,Female,Influenza   ,,2277.93,26.0,No,Stable,4.0
+801,18,Male,Migraine,consultation,6079.95,9.0,No,Discharged,4.0
+353,62,Female,Pneumonia,Consultation,7974.07,21.0,No,discharged,1.0
+198,32,Female,Bronchitis,Vaccination,3234.41,20.0,No,Discharged,4.0
+69,77,Male,Migraine,Vaccination,4763.66,15.0,No,Discharged,3.0
+667,69,Female,Asthma   ,mri scan,3900.44,13.0,No,Discharged,4.0
+942,82,Female,Heart Disease  ,Endoscopy  ,7869.38,5.0,No,Discharged,
+660,57,Male,,MRI Scan,2052.26,8.0,No,Discharged,2.0
+96,42,Male,Pneumonia,Vaccination,4708.69,11.0,No,Transferred,
+454,NA,Female,Pneumonia ,Dialysis   ,7549.1,14.0,No,Discharged,
+713,30,Male,,MRI Scan,bir bin,27.0,No,DISCHARGED,0
+2999,69,female ,Appendicitis,CHEMOTHERAPY,8036.21,17.0,Yes,deceased,2.0
+496,85,Male,Inflaenza,Surgery,7213.65,12.0,No,discharged ,1.0
+526,62,Male,,general check-up,7713.96,12.0,No,Discharged,4.0
+287,35,Male,Bronchitis,Dialysis,,7.0,No,Transferred,4.0
+253,75,Female,Diabetes,Vaccination,100000,bir gün,No,Dischahged,0
+991,30,Female,,Dialysis,,11.0,No,Stable,
+911,34,Female,appendicitis,Surgery   ,6528.88,19.0,No,Discharged   ,2.0
+960,88,Female,Heart Disease,BLOOD TEST,7438.9,9.0,Yes,Discharged,2.0
+738,45,Male,Migraine,vaccination   ,5059.29,28.0,No,Deceased,5
+317,22,Male,,Surgery,9294.34,9.0,No,Discharged,1.0
+832,111,f,Apphndicitis,Dialysis ,3216.28,17.0,No,discharged   ,2.0
+887,36,Female,Migraine,DIALYSIS,8952.91,9.0,No,Discharged,0
+828,80,Male,appendicitis,MRI Scan,2684.49,9.0,No,Discharged,2.0
+179,41,Male,Migraine,Dialysis,992.73,20.0,No,Transferred   ,4.0
+494,58,Male,Pneumonia,General Check-up,8005.53,20.0,No,Discharged,2.0
+736,23,Male,Bronchitis,Physical Therapy  ,1130.94,13.0,No,discharged,
+94,66,Female,Bronchitis,surgery,311.02,24.0,No,transferred,1.0
+851,12,Male,Migraine,Endokcopy ,7254.91,,No,,4.0
+241,35,Male,,Suruery,6099.93,7.0,Yes,Discharged   ,4.0
+614,72,Female,,Dialysis,3088.29,20.0,No,Discharged,4.0
+938,60,Female,,Consultation,95.21,16.0,No,Discharged,
+986,NA,Male,Hypertension,General Check-ul,1373.29,6.0,No,Discharged,4.0
+370,72,Male,Bronchitis,BLOOD TEST,3339.37,29.0,Yes,DECEASED,3.0
+733,87,Male,asthma,Endoscopy,5646.4,22.0,No,STABLE,4.0
+546,73,Male,pneumonia,Blood Test,6535.41,11.0,No,Discharged,2.0
+829,75,Female,Fracture,general check-up   ,4038.87,25.0,No,stable,1.0
+893,88,Male,HEART DISEASE,Surgery,5768.29,20.0,No,Discharged,1.0
+621,33,Male,Hypertension,Physfcal Therapy,2389.45,11.0,No,Discharged,2.0
+140,43,Male,Fracture,General Check-up,8293.15,22.0,No,deceased,1.0
+647,72,Female,Hypkrtension,VACpINATION,3611.66,,No,Discharged,2.0
+545,69,Female,migraine,Blood Test,5079.2,19.0,No,DISCHARGED,4.0
+709,32,Male,Pneumonia,Endoscopy   ,9301.33,18.0,No,DISCHARGED ,4.0
+965,15,Male,,MRI SCAN   ,9416.4,28.0,No,DISCHARGED,-1
+214,71,Female,Hypertension,Dialysis,6207.48,22.0,No,Stable ,1.0
+597,49,Female,Asthma,Physical Therapy,3642.98,3.0,No,Discharged,2.0
+272,34,Male,Hypertension  ,Vaccination,4854.69,11.0,No,Discharged,3.0
+622,38,Female,Pneumonia,MRI Scan,4394.35,25.0,Yes,discharged,3.0
+180,79,Female,Diabetes,SURGERY   ,,,No,Discaarged ,3.0
+652,40,Male,Fracture   ,Chemotherapy,,2.0,No,Stable,2.0
+26,4,Female,,Endoscopy,,bir gün,No,Discharged,1.0
+255,29,Male,HEART DISEASE,,1824.84,11.0,No,Transferred,4.0
+595,89,Male,Pneumonia,Consultation,9443.92,6.0,Yes,Discharged,1.0
+744,60,Male,Pneumonia  ,,7783.97,2.0,No,discharged,3.0
+703,55,Male,PNEUMONIA,Paysical Therapy  ,181.45,20.0,No,Discharged,3.0
+505,44,Male,Hypertension,Physccal Therapy,4018.14,23.0,No,discharged ,4.0
+207,69,Male,MIGRAINE,Chemotherapy,,4.0,No,Discharged,3.0
+512,15,Male,Asthma,General Check-up,9521.37,2.0,No,discharged,2.0
+610,9,Female,Diabetes,physical therapy,4256.56,3.0,No,Discharged,4.0
+894,62,Female,Fracture,Chemotherapy,7314.13,19.0,Yes,Transferred,
+719,73,Female,Fracture,General Check-up,6564.11,10.0,No,Discharged   ,2.0
+283,46,Male,FRACTURE,Physical Therapy,5076.88,5.0,No,Discharged,1.0
+552,55,Male,,chemotherapy,3934.85,24.0,No,Discharged,10
+631,2,Female,Hypertension,ENDOSCOPY ,,23.0,No,Discharged,4.0
+653,22,Male,asthma,Dialysis,1078.6,10.0,No,Discharged ,1.0
+318,62,Male,Migraine,general check-up,8805.74,22.0,No,Discharged,1.0
+400,26,Male,,Vaccination,8485.05,28.0,No,Discharged,2.0
+369,59,Male,diabetes,Surgery,9665.77,29.0,No,DISCHARGED,1.0
+286,9,m,Migraine,Endoscopy,4712.7,6.0,No,DISCHARGED,4.0
+307,29,Female,Diabetes,Blood Test,135.5,5.0,No,,4.0
+274,10,Female,Bronchitis,vaccination,4143.36,28.0,No,Diicharged,4.0
+49,73,Male,Influenza,Endoscopy,2351.89,1.0,No,transferred   ,2.0
+983,40,Female,Appendicitis,Chemotherapy,7732.44,28.0,Yes,Discharged,
+157,16,Male,Pneumonia,Chemotherapy,8750.84,29.0,No,Transferred   ,4.0
+862,27,Male,Pneumonia,Dialysis,9650.33,20.0,Yes,Discharged,2.0
+169,43,Male,bronchitis,blood test,5227.7,10.0,No,DISCHARGED  ,2.0
+188,18,Male,Hypertension ,Endoscopy  ,9039.24,12.0,No,discharged,2.0
+910,48,Male,Migraine,Vaccination,,20.0,No,Discharged,2.0
+937,42,Female,Bronchitis,Surgegy  ,FREE,14.0,No,Transferred,4.0
+105,18,Female,PNEUMONIA,Consultation,4379.76,8.0,No,hischarged,3.0
+919,37,Female,Migraine,Dialysis,5861.6,25.0,No,,1.0
+558,57,Female,Heart Disease,,$10588.02,2.0,No,Discharged,3.0
+234,23,Male,Migraine,Dialysis,3037.61,16.0,No,DISCHARGED,1.0
+16,77,Male,heart disease   ,Surgery,9376.48,1.0,No,Deceased,4.0
+467,75,Female,influenza,Physical Therapy,454.93,NaN,Yes,Deceased  ,2.0
+261,42,Male,Abthma,endwscopy,9074.93,24.0,No,Discharged,
+417,14,Female,BRONCHITIS ,Consultation,6777.93,24.0,No,Dischargkd,3.0
+339,17,Male,Fracture,MRI fCAN,4738.91,2.0,No,Transferred,3.0
+822,34,Male,,Chemotherapy,,23.0,Yes,transferred,
+329,48,Female,Influenza,Surgery,6094.17,21.0,No,discharged,4.0
+302,36,Male,heart disease,Vaccination  ,6372.07,5.0,No,Stable,4.0
+336,74,Male,xigraine  ,Dialysis,906.13,13.0,Yes,Discharged  ,2.0
+974,50,Male,Heart Disease,VACCINATION,8683.7,21.0,No,Stable,4.0
+760,81,Male,Appendicitis,General Check-uj,768.7,29.0,No,Deceased,4.0
+554,49,Female,Bronchitis,Surgery,876.13,15.0,No,Sjable,1.0
+888,50,Male,Asthma,Surgery,7846.46,27.0,No,Discharged,2.0
+706,32,Male,Bronchitis   ,,1778.12,16.0,No,Discharged   ,1.0
+24,120,Female,Appendicitis,Dialysis  ,8197.6,15.0,No,Discharged,2.0
+988,79,Male,yiabetes,endoscopy,9587.9,24.0,No,stable,1.0
+722,25,Male,DIABETES,Surgery,4827.45,1.0,Yes,Discharged ,4.0
+432,85,Female,,Dialysis,1717.07,27.0,No,Transferred   ,1.0
+58,18,Male,Migraine,surgery  ,5759.97,25.0,No,discharged,1.0
+501,16,Female,Influenza,Consultation,4167.49,10.0,No,Disrharged   ,1.0
+566,3,Male,Asthma,General Check-up   ,1613.39,25.0,No,Discharged  ,1.0
+14,51,Female,Diabetes,Blood Test,2140.87,7.0,No,Discharged,3.0
+299,29,f,Heart Disease,Chemotherapy,1751.26,10.0,No,DISCHARGED,1.0
+107,9,Female,Hypertension,,5296.83,29.0,No,Deceased  ,
+404,70,Male,Pneumonia,Physical Therapy,4690.45,23.0,No,Discharged,3.0
+613,67,Female,Fracture,General Check-up,$12116.88,1.0,No,DISCHARGED,3.0
+228,66,Male,Bronchitis,Blood Test,,14.0,Yes,Discharged,1.0
+332,64,Male,Fracture,Blood Test,607.94,90,Yes,Discharged,3.0
+160,79,Female,Influenza,consultation,3432.74,21.0,No,transferred,2.0
+939,66,Male,Influenza,endoscopy,2121.97,27.0,Yes,Discharged,1.0
+411,21,Male,Migraine,general check-up,5066.54,3.0,Yes,Discharged ,3.0
+946,87,Female,Pneumonia   ,,8472.24,19.0,No,,4.0
+723,9,Female,Appendicitis ,Physical Therapy,1448.8,16.0,No,Discharged,3.0
+386,12,Male,Asthma,general check-up  ,4022.15,26.0,No,rtable,1.0
+108,55,Male,Fracture,General Check-up,790.86,21.0,No,DISCHARGED,2.0
+567,85,Female,,Endoscopy,,1.0,No,transferred   ,1.0
+642,42,Male,Diabetes,Vaccination,5467.76,19.0,No,Discharged,4.0
+50,24,Male,bronchitis,bloox test,7108.78,20.0,No,Discharged,5
+766,48,Male,BRONCHITIS,Consultation,8683.46,6.0,No,Discbarged,1.0
+177,36,Female,Asthma,Dialysis,6241.56,18.0,Yes,Dischargud,2.0
+447,87,Male,migraine,General Check-up,6332.56,9.0,No,Transferred   ,4.0
+284,60,Female,fracture,Dialzsis  ,6937.02,24.0,No,Transferred,2.0
+770,8,Male,Misraine,consultation   ,5226.67,23.0,No,STABLE,4.0
+892,2,Female,Appendicitis,Endoscopy,9155.06,16.0,No,Discharged,
+993,12,Male,Asthma,Chemotherapy,5081.01,9.0,No,DISCHAgGED,1.0
+316,54,MALE,,Chemotherapy  ,7859.87,15.0,No,Transferred,3.0
+148,51,Male,,Blood Test,8464.06,9.0,No,discharged,1.0
+940,83,Male,Bronchitis,Chemothedapy,,12.0,No,Stable  ,1.0
+839,10,Male,ASTHMA,consultation,bilinmiyor,11.0,No,Stable,3.0
+380,22,Female,Influenza,,790.35,10.0,No,Discharged,1.0
+22,30,Male,Appendicitis,Physical Therapy,1035.57,5.0,No,discharged   ,High
+373,89,Female,,BLOOD TEST,,29.0,No,discharged ,1.0
+933,4,Female,Hypertension,Dialysis,1441.66,17.0,No,Discharged ,1.0
+393,21,Male,Diabetes,Chemotherapy ,5390.56,1.0,No,Deceased ,3.0
+543,77,Female,Heart Disease,Blood Test,8106.06,14.0,No,Deoeased,2.0
+932,7,Male,Mngraine,General Check-up,2543.63,9.0,No,Discharged ,1.0
+639,75,Male,,Chemotherapy,1690.99,4.0,No,Discharged,3.0
+125,23,Male,Heart Disease,CONSULTATIoN,151.25,25.0,No,discharged,1.0
+920,78,Female,ASTHMA ,Dialysis,8159.03,23.0,No,Discharged,4.0
+290,8,Female,Heart Disease   ,mri scan,8529.05,7.0,No,Discharged,4.0
+167,64,Female,HEART DISEASE,GENERAL CHECK-UP,,3.0,Yes,STABLE,3.0
+76,38,Female,Migraine,Vaccination,2756.73,10.0,No,DISCHARGED,3.0
+529,78,Male,appendicitis,ENDOSCOPY,7839.25,9.0,No,discharged,4.0
+395,53,Male,Hypertension,CHEMOTHERAPY  ,8031.93,23.0,No,Discharged,2.0
+377,88,Male,Diabetes,consultation  ,3483.15,25.0,No,Discharged,4.0
+413,78,Female,Heart Disease ,,bilinmiyor,6.0,No,,1.0
+702,88,Male,Hypertension,Chemotherapy,5119.68,21.0,No,Discharged,3.0
+863,32,Female,Bronchitis ,Chemotherapy,6617.2,24.0,No,Discharged  ,
+414,56,Female,Hypertensiow,,7170.51,5.0,Yes,discharged,2.0
+213,89,Male,Diabetes,PHYSICAL THERAPY,5134.31,14.0,No,Discharged  ,
+37,78,Female,ASTHMA  ,Chemotherapy,2494.99,14.0,No,Discharged,4.0
+462,10,Male,Hypertension,consultation,2970.59,8.0,No,Discharged,4.0
+82,74,Male,Asthma,Endoscopy ,1098.0,5.0,No,fischarged,4.0
+724,68,Female,Pneumonia  ,Chemotherapy,8031.1,6.0,No,DISCHARGED   ,
+106,57,Female,Diabetes,Dialysis,647.08,24.0,No,discharged   ,High
+304,88,Male,,ENDOSCOPY,8980.85,24.0,No,Transferred,4.0
+500,46,Male,pneumonia,Surgery,2236.54,22.0,No,Stable,2.0
+344,36,Female,Appendicitis,CONSULTATION,6866.92,15.0,Yes,dgscharged,3.0
+982,29,Male,Migraine,CHEMOTHERAPY,4269.93,27.0,No,discharged ,3.0
+497,26,Female,,Surgery,9697.69,18.0,Yes,DISCHARGED,4.0
+184,60,m,Appendicitis,Dialysis,1669.93,11.0,No,,2.0
+588,16,Male,Bronchitis ,CHEMOTHERAPY,7038.69,13.0,No,Discharged,4.0
+276,69,Female,,CONSULTATION,9058.84,28.0,No,Discharged,2.0
+470,36,Male,APPENDICITIS   ,Consultation,6976.47,22.0,No,Discharged,1.0
+698,70,Female,BRONCHITIS  ,MRI Scal,1035.53,,No,lISCHARGED,3.0
+777,9,Female,migraine,,,16.0,No,dischargedw,3.0
+685,10,Male,Heart Disease,uurgery,8070.33,20.0,Yes,Stable,-1
+650,31,Kadın,Appendicitis,SURGERY,7840.59,6.0,No,TRANSFERRED,1.0
+491,72,Male,INFLUENZA,Surgery,4542.22,5.0,No,Discharged,1.0
+412,32,Female,Fracture,Blood Test,2257.23,4.0,No,TRANSFERRED,3.0
+604,59,Male,pneumonia,GENERAL CHECK-UP,7406.39,18.0,Yes,DISCHARGED,0
+504,19,Male,hypertenspon,DIALYSIS,1939.44,3.0,No,Discharged   ,2.0
+440,36,Female,MIGRAINE,Consultation,8719.97,13.0,No,,1.0
+279,76,Male,Pneumonia  ,consultation,,14.0,No,Discharged  ,3.0
+379,34,Male,Fractlre ,Chemotherayy  ,1489.97,3.0,No,discharged,1.0
+814,38,Female,INFLUENZA,VACCINATION,8254.69,22.0,No,Discharged,1.0
+487,36,Male,Appendicitis  ,Physical Therapy,3502.18,2.0,No,Stable,4.0
+808,65,Female,DIABETES,MRI Scan,9663.66,7.0,No,DISCHARGED,4.0
+20,35,Male,Diabetes,Physical Therapy  ,6745.78,,Yes,Discharged,1.0
+591,77,Female,,MRI Scan  ,9293.16,26.0,No,Stable,
+230,66,Female,Influenza,Physical Therapy,5634.09,15.0,No,Discharged ,1.0
+383,45,Kadın,Influenza,Surgery,3090.79,22.0,Yes,Discharged   ,3.0
+897,71,Female,Appendicitis,mri scan,2496.01,15.0,No,DISCHARGED ,2.0
+561,25,Female,,Consultation,2039.2,29.0,No,Discharged,2.0
+846,39,Female,Asthma,surgery  ,8166.14,,No,,4.0
+434,71,Male,Pneumonia,Vaccination ,3493.14,,No,DISCHARGED,3.0
+584,83,Female,Asthma,Chemotherapy,1158.57,16.0,No,Stable,1.0
+953,18,Female,HEART DISEASE,GENERAL CHECK-UP   ,,2.0,No,discharged,3.0
+433,43,Male,fracture,Blood Test,5545.83,3.0,No,DISCHARGED  ,2.0
+482,83,Male,Asthma,Consultation  ,3894.14,17.0,Yes,Discharged  ,3.0
+262,10,female ,Fracture,general check-up,,28.0,No,DISCHARGED ,4.0
+835,68,Male,pneumonia,,5485.72,7.0,Yes,Discharged,4.0
+423,48,Female,,ENDOSCOPY,,24.0,No,Discharged   ,2.0
+46,60,Male,Heart Disease,DIALYSIS,9530.1,19.0,No,DISCHARGED,3.0
+676,19,Female,Heart Disekse,Consultation,6780.64,13.0,No,DISCHARGED,1.0
+931,75,Female,influenza,VACCINATION   ,4433.97,8.0,No,Discharged ,2.0
+833,120,Female,Appendicitis,SURGERY  ,3438.93,26.0,No,Discharged,3.0
+427,36,Female,asthma,Consultation  ,9736.85,4.0,No,Discharged,
+571,51,Male,Asthma,General Check-up,3128.07,6.0,No,Stable,1.0
+34,26,Female,pneumonia,PHYSICAL THERAPY ,7312.36,6.0,Yes,Discharged,1.0
+11,55,Male,MIGRAINE,physical therapy,244.64,26.0,No,Discharged,3.0
+559,51,female ,PNEUMONIA,MRI Scan,2004.84,19.0,No,Discharged,3.0
+350,65,Female,Heart Disease,Dialysis,6251.91,25.0,No,DISCHARGED,Low
+720,42,Male,Hypertensiun,surgery,7030.27,1.0,No,Discharged,1.0
+654,81,Kadın,influenza,Chemotherapy,7379.95,1.0,No,Transferred,3.0
+539,58,Female,Fracture,Dialysis,7925.35,1.0,No,Discharged  ,1.0
+929,60,Male,Pneumonia,ENDOSCOPY ,6387.4,19.0,No,STABLE,2.0
+745,60,Female,Fracture  ,Surgery,3381.29,21.0,Yes,Discharged,1.0
+900,58,Female,Diabetes,MRI Scan  ,,5.0,No,DISCHARGED,1.0
+90,26,Male,Asthma,endoscopy,2251.38,3.0,No,Discharged,4.0
+923,17,Female,Bronchitis  ,Endoscopy,4675.42,4.0,No,Discharged,2.0
+843,26,Female,migraxne,General Check-up,2718.67,26.0,No,Discharged ,3.0
+867,35,Male,Asthma,Consultation,,11.0,Yes,DISCHARGED   ,
+585,72,Female,,Endoscopy,6775.46,29.0,No,Stable   ,3.0
+808,65,Female,diabetes  ,MRI Scan,9663.66,7.0,No,Discharged,4.0
+114,67,Female,influenza,Physical Therapy,2293.15,4.0,No,discharged,4.0
+396,83,Female,Diabexes,Consultation,2370.17,14.0,No,Discharged,3.0
+298,12,Male,Diabetes,Consultation,7266.9,25.0,No,Transferred  ,
+193,44,Female,Bronchitis,Physical Therapy  ,6668.41,20.0,No,Transferred,3.0
+611,48,Male,HEART DISEASE,,9052.88,28.0,No,Discharged,4.0
+3,47,Female,Fractpre,blood test,653.88,19.0,No,discharged,3.0
+717,81,m,pneumonia,surfery,bilinmiyor,17.0,No,DECEASED,2.0
+800,54,Male,ksthma,VACCINATION,9095.41,29.0,No,Transferred,1.0
+531,75,Male,Heart Disease,Vacwination,9868.92,4.0,No,Deceased,2.0
+2,81,Male,,blood test,9279.65,1.0,Yes,Discharged  ,1.0
+163,54,Male,Diabetes   ,Consultation   ,7197.36,28.0,No,Discharged,2.0
+903,40,Female,,Consultation,660.98,10.0,No,Transuerred,4.0
+842,40,FEMALE,Migraine,MRI Scan,8425.18,23.0,No,Discharged,4.0
+693,52,Male,pneumonia,Chemotherapy,4854.07,18.0,No,DISCHARGED,1.0
+551,18,FEMALE,APPENDICITIS,MRI SCAN ,7721.34,28.0,No,Discharged ,3.0
+684,4,Male,Heart Disease,VACCINATIOd,285.68,3.0,No,Discharged ,1.0
+901,40,Male,Asthma   ,Chemotherapy,4927.2,11.0,No,DISCHARGED,4.0
+563,11,Female,Heart Disease,endoscopy,8816.2,15.0,No,Stable,3.0
+793,N/A,Male,diabetes,Blood Test  ,6599.59,14.0,No,Discharged,1.0
+812,83,Male,migraine,Consultation   ,$3878.01,13.0,No,Dischargvd,
+288,47,Female,Influenza ,Endoscopy,3493.75,21.0,Yes,Discharged,4.0
+202,57,male ,Pneumonia,CONSULTATION,389.75,,Yes,Discharged,1.0
+258,35,Male,pneumonia,MRi Scan,FREE,19.0,No,Transferred,1.0
+162,43,Female,DIABETES,Chemotherapy,902.29,3.0,No,Discharged,2.0
+291,64,Male,Influenza,Chemotherapy,8044.79,13.0,No,Transferred ,-1
+735,87,Male,Influenza,,6052.46,8.0,No,Discharged   ,3.0
+93,71,Male,Diabetes  ,MRI Scan  ,8228.29,,No,Discharged   ,4.0
+83,9,m,Diabetes,CONSULTATION ,7727.69,21.0,No,Discharged,3.0
+788,54,Female,migraine,Endoscopyd ,6286.19,2.0,No,Discbarged,2.0
+48,81,Female,Bronchitis   ,Consultation,5303.85,bir gün,No,Discharged ,1.0
+187,32,Female,Asthma,qaccination,1748.67,29.0,No,TRANSFERRED,3.0
+223,55,Female,Bronchitis,,5994.54,,No,Stable,4.0
+360,80,Male,Influenza,Blood Tebt  ,8116.16,29.0,No,,1.0
+391,17,Female,Appendicitis,Surgery   ,3235.79,100,Yes,Stable,3.0
+238,46,Male,Apcendicitis,chemotherapy,8265.21,23.0,No,DISCHARGED ,4.0
+65,31,Female,pbeumonia  ,Surgery,606.91,23.0,No,Stable,2.0
+430,70,Male,Asthma,CHEMOTHERAPY  ,6355.38,1.0,No,stable ,2.0
+775,76,Female,Fracture,PHYSICAL THERAPY,5843.82,18.0,No,DISCHARGED,3.0
+355,65,Female,Heart Disease,,2854.1,23.0,No,Discharged,4.0
+971,89,Male,INFLUENZA   ,Ekdoscopy,7610.48,17.0,No,Discharged,1.0
+226,65,Male,HEART DISEASE,Surgery,7530.3,uzun süre,No,discharged,Not Rated
+661,54,female ,Asthma,MRI Scan,4391.61,4.0,No,Discharged  ,4.0
+747,88,Female,Heart Disease   ,Physical Therapy,5102.12,12.0,No,DECEASED,3.0
+845,52,Female,APPENDICITIS,CHEMOTHERAPY,5108.23,24.0,No,Discharged,4.0
+346,66,Female,influenza,Diacysis,2219.4,19.0,No,Discharged,2.0
+599,34,Male,appendicitis,CONSULTATION,4465.38,19.0,No,Discharged,1.0
+746,64,Male,heart disease ,Sudgery,7559.86,,No,nischarged,1.0
+410,74,Male,Fracture,Vaccination,5297.65,27.0,No,,3.0
+359,56,Male,Diabetes   ,general check-up,652.68,,No,,4.0
+968,13,Female,Heart Disease,Chemotherapy,366.17,24.0,No,Discharged,4.0
+111,15,Female,influenza,,6233.31,28.0,Yes,discharged,3.0
+216,32,Female,Influenza,Blood Test,5392.99,24.0,No,wtable ,0
+407,12,Female,Fracture,MRI SCAN ,1659.14,19.0,Yes,DISCHARGED,1.0
+406,79,Female,Diabetes,Chemotherapy,7324.39,12.0,No,Discharged,2.0
+802,37,Male,migraine  ,Surgery,1273.32,3.0,No,Stable,4.0
+562,2,Female,ASTHMA,Chemotherapy,9999.82,21.0,No,Discharged,4.0
+2991,46,Male,,chemotherapy,6230.12,18.0,No,Discharged,
+416,15,Male,Appendicitis,Physical Therapy,1164.03,,Yes,Discharged   ,0
+544,10,Female,Fracture,consultation,7430.5,11.0,No,,3.0
+143,36,Male,hypertension,Chemotherapy,1560.18,4.0,Yes,Discharged,3.0
+739,22,FEMALE,Appendicitis,PHYSICAL THERAPY   ,1601.58,,No,Deceased,5
+634,30,Female,bronchitis,Endascopy,9082.74,3.0,No,Discharged ,1.0
+498,19,Male,Pneumonia,Dialysis ,4994.02,20.0,No,DISCHARGED,0
+205,60,Male,Pneumonia,Dialysis,440.32,29.0,No,dizcharged,
+767,69,Male,Migraine,Endoscopy   ,1704.85,17.0,No,Transferred,3.0
+899,14,Male,PNEUMONIA,Vaccination,9147.83,13.0,No,DISCHARGED,1.0
+878,8,Female,BRONCHITIS,Physical Therapy,686.85,18.0,No,transferbed,2.0
+457,64,Male,,MRI Scan,9292.87,15.0,No,DISCHARGED,4.0
+39,45,Male,Hypertensiin,Blood Test,9816.39,28.0,No,discharged,3.0
+103,4,Female,Hypertension,Vaccination   ,2783.54,5.0,No,Discsarged,1.0
+250,9,Male,Heart Disease,VACCINATION,3956.73,23.0,Yes,TRANSFERRED ,4.0
+119,59,Female,FRACTURE,dialysis,3420.66,1.0,Yes,Discharged  ,4.0
+62,11,Female,DIABETES,Endoscopy,9948.96,4.0,Yes,Stable,Not Rated
+877,84,Male,Hypertension,ENDOSCOPY,,13.0,No,DISCHARGED,1.0
+794,61,Male,,Dialysis,717.79,23.0,No,DISCHARGED,4.0
+78,59,Male,Pneumonia,Blood Test,6315.98,23.0,No,Dmscharged  ,2.0
+517,73,Female,Pneumonia,Surgery,6683.96,6.0,No,discharged,2.0
+278,72,Male,,Chemotherapy  ,,17.0,No,discharged,3.0
+752,51,Female,pneumonia,Vaccination,9836.71,5.0,Yes,DISCHARGED  ,3.0
+305,85,Female,,Physical Therapy,7906.48,29.0,No,Deceased,1.0
+161,57,Female,Diobetes,MuI Scan,9982.86,25.0,No,discharged,3.0
+342,53,Male,fracture  ,Dialysis,1842.86,19.0,No,Discharged,3.0
+928,23,Male,heart disease,Consultation,8900.32,24.0,No,Discharged,1.0
+670,86,Male,,dialysis,3776.01,28.0,No,Discharged,4.0
+948,8,Male,FRACTURE,Endoscopy ,2633.59,9.0,No,Stable,1.0
+771,63,Female,hypertension,MRI Scan,,5.0,No,Transberred   ,5
+872,5,Male,Pneumonia,Dialysis,4837.1,1,Yes,Discharged,4.0
+47,41,Male,asthma  ,surgery,435.88,19.0,No,Discharged,2.0
+605,10,Female,ASTHMA,MRI SCAN,917.57,11.0,No,discharged,2.0
+977,72,Male,diabetes,Surgery,2953.8,10.0,No,Discharged,
+750,78,Female,,,2801.96,19.0,No,Dischfrged,4.0
+969,67,Female,PNEUMONIA,general check-up,,,No,Discharged,4.0
+109,1,Male,Influenza,Surgery  ,50000,5.0,Yes,Deceased ,3.0
+753,17,Male,Migraine,Consultation  ,4077.76,11.0,No,Transferred,3.0
+132,63,Female,Appendicitis,Chemotherapy,3875.33,5.0,No,Discharged,2.0
+335,63,Male,Asthma,Surgery  ,7478.85,10.0,No,Discharged,3.0
+415,63,Female,asthma,mri scan,5954.94,9.0,No,Stable,5
+385,12,Male,Pneumonia,Blzod Test,1016.97,24.0,No,Discharged,4.0
+694,16,Male,Fracture,uurgery,3352.11,29.0,No,DISCHARGED,4.0
+589,68,Male,migraine,Consultation,7946.74,,No,Discharged,1.0
+152,27,Female,,Vaccination,954.06,6.0,No,Discharged ,2.0
+204,49,Female,Heart Disease,MRI SCAN  ,6511.25,,No,DISCHARGED ,4.0
+343,30,Female,influenza,,9334.03,21.0,No,DISCHARGED,1.0
+636,44,Male,,surgery,6648.42,14.0,No,Transferred,2.0
+572,63,Male,Appendicitis,General Check-up,4931.21,14.0,No,aischarged,4.0
+976,64,Male,Fracture,Physicgl Therapy,5328.23,26.0,No,Discharged,3.0
+540,14,Male,heart disease,Vaccination,5586.15,23.0,No,Transferred,2.0
+150,65,Male,Asthma,VACCINATION,9285.87,14.0,No,,3.0
+749,81,Female,Hypertension,Vaccination,,21.0,No,Stakle,-1
+135,21,Male,Asthma,Endoscopy   ,1498.28,,No,discharged,4.0
+980,54,Female,,Dialysis,1675.52,5.0,No,discharged,2.0
+711,54,Female,asthma,general check-up,3475.37,18.0,No,Discwarged   ,1.0
+61,54,Male,bronchitis,Bloou Test,8011.61,18.0,No,Discharged,1.0
+77,30,Female,hypertension,CHEMOTHERAPY ,6007.61,13.0,No,Discharged,Low
+575,71,Female,Appendicitis,,7721.87,23.0,No,Discharged,High
+514,15,Female,Appendicitis,,4096.56,6.0,No,DISCHARGED,4.0
+120,36,Male,Appendicitis,endoscopy,4712.48,4.0,Yes,discharged,1.0
+506,35,Female,Appendicitiw,Endoscopy,6235.33,4.0,No,Discharged,4.0
+171,87,Female,Heart Disease  ,DIALYSIS,9853.73,29.0,No,Transferred,3.0
+816,64,Female,Appendicitis,MRI SCAN,2114.83,10.0,No,Discharged,-1
+560,11,Male,bronchitis,dialysis,1663.38,24.0,No,Depeased,1.0
+659,8,Male,Heart Disease,Blood Test,4956.81,27.0,No,Discharged  ,1.0
+142,4,Female,Fracture   ,Dialysis,5489.93,2.0,No,Discharged ,4.0
+882,70,Male,Hypertension,endoscopy,5425.02,26.0,No,Discharged,1.0
+102,1,Male,pneumonsa,Vaccination,3415.78,4.0,No,Discharged,3.0
+922,13,Female,hypertension,Surgery   ,8006.38,10.0,No,discharged,4.0
+992,24,Female,fracture,general check-up,8622.45,17.0,No,Discharged  ,2.0
+227,77,Male,fsthma,Vaccination,2022.24,12.0,Yes,Discharged,4.0
+75,9,Male,,Vaccination,5321.0,19.0,No,discharged,1.0
+428,3,Female,heart disease,Physical Therapy  ,2508.63,15.0,No,discharged   ,
+705,62,Female,Hypertension,Blood Test,2206.47,20.0,Yes,Discharged,1.0
+748,42,Male,Appendicitis,Chemotherapy,2471.67,7.0,No,discharged,3.0
+714,8,Female,DIABETES  ,VACCINATION,1037.2,8.0,No,Discharged ,2.0
+448,kırkaltı,Male,Hypertension,SURGERY,6543.29,5.0,No,Discharged  ,2.0
+664,25,Female,Fracture   ,Consultation,6472.76,9.0,No,Discharged,1.0
+63,12,Female,Bronchitis,PHYSICAL THERAPY ,7224.49,1.0,No,Discharged,1.0
+471,68,Male,,SURGERY,,4.0,No,discharged,4.0
+856,56,Male,Bronchitis,,9389.81,3.0,No,Discharged   ,2.0
+895,22,Male,BRONCHITIS,,2614.8,12.0,No,Discharged ,4.0
+145,68,Female,Fracture,BLOOD TEST,$1730.44,7.0,Yes,Discharged ,2.0
+699,61,Male,,General Check-up,4527.16,18.0,No,discharged,4.0
+972,3,Male,Fracture,SURGERY   ,5474.85,2.0,No,Discharged,1.0
+362,84,Male,Influenza,General Check-up,4942.88,6.0,No,Discharged,3.0
+926,66,Male,Heart Dbsease  ,MRI Scan ,5044.9,8.0,No,discharged,4.0
+356,19,Male,Asthma,Physical Therapy,4742.66,11.0,No,Discharged   ,1.0
+903,40,Female,,CONSUgTATION,660.98,10.0,No,Transferred,4.0
+215,71,Male,Asthma,chemothegapy,7668.65,,Yes,Discharged,3.0
+74,21,Female,HYPERTENSION,Vaccination  ,1445.12,21.0,No,discharged,4.0
+19,68,Male,Fracture,PHYSICAL mHERAPY,9907.74,0,No,,4.0
+581,51,Female,Asthma,Endoscopy ,2624.38,24.0,No,Discharged,Low
+757,127,Female,Heart Disease,Consultation ,4584.46,2.0,No,Discharjed,2.0
+285,25,Male,Fracture,CHEMOTHERAPY   ,2804.46,12.0,Yes,Discharged,2.0
+435,52,Female,,Endoscopy,8185.07,23.0,Yes,DISCHARGED,1.0
+511,105,Female,Inyluenza,dialysis,9749.34,9.0,No,DISCHARGED,3.0
+873,65,Female,Influenza,Dpalysis,3140.72,18.0,No,Discharged,3.0
+957,30,Female,Asthma,MRI Scan,8897.96,16.0,No,stable,3.0
+958,70,Female,fracture,Endoscopy,6478.23,13.0,No,Discharged,4.0
+334,79,Male,Migraine   ,Endoscopy  ,8605.22,21.0,No,,1.0
+98,5,Male,Fracture,Consultation,6572.89,29.0,No,Discharged   ,2.0
+480,2,Female,bronchitis,,1389.13,21.0,No,Transferred,3.0
+364,21,Female,Heart Diseaze,Dialysis,9541.2,7.0,No,Discharged   ,2.0
+904,106,Female,Hypertension,General Check-up ,4025.64,25.0,No,Discharged,1.0
+503,11,Female,siabetes  ,MRI SCAN,9805.37,23.0,No,Discharged,4.0
+942,82,Female,HEART DISEASE,Endoscopy,7869.38,5.0,No,Discharged,
+281,24,Female,Diabetes   ,SURGERY,7817.58,29.0,No,,1.0
+352,16,Male,Bronchitis,chemotherapy,5338.39,3.0,No,Dischargud,1.0
+450,2,Male,Migraine,ENDOSCOPY   ,8706.96,7.0,No,Discharged   ,
+678,55,Female,Bronchitis,Endoscopy,8852.03,15.0,No,Stable,1.0
+269,71,Female,migraine ,CONSULTATION,,1.0,No,Discharged  ,2.0
+804,5,Female,,Chemotherapy,2711.01,22.0,Yes,uischarged,4.0
+607,52,Female,Appendicitis ,VACCINATION   ,6444.97,7.0,No,DISCHARGED,3.0
+637,53,Female,HEART DISEvSE,vaccination  ,4277.3,19.0,Yes,DISCHhRGED,4.0
+731,48,Female,migraine,Chemotherapy ,1144.1,16.0,Yes,Discharged,4.0
+840,49,Male,Hypertension ,Vaccination,8908.03,2.0,No,Discharged,4.0
+308,10,Female,Fractuee  ,,2608.22,,No,Stable,2.0
+165,80,Male,APbENDICITIS,Endoscopy,9591.52,2.0,No,discharged,4.0
+577,62,Female,,Chemotherapy,8192.28,6.0,Yes,discharged,3.0
+211,58,Female,diabetes ,Vaccination,2752.43,2.0,No,DISCHARGED,3.0
+394,75,Female,Asthma ,CONSULTATION,9696.42,11.0,No,discharged,3.0
+601,65,Male,Diabetes,Chemotherapy,7506.98,16.0,No,Transferred,1.0
+553,29,Female,APPENDICITIS,Dialysis,3563.3,26.0,No,dischaqged,1.0
+687,41,Female,Appendicitis,Endoscopy,3261.12,28.0,No,Transferred  ,3.0
+865,78,Female,Fracture,Chemotherapy,3129.84,24.0,No,discharged,4.0
+460,32,Male,Heart Disease   ,Blood Tess,4831.83,14.0,No,Stable ,2.0
+398,88,Female,Migraine,General Check-up,6820.75,16.0,No,Discharged,1.0
+134,46,Female,Pneumonia,blood test   ,4031.09,20.0,No,discharged,3.0
+626,61,Male,migraine l ,,9752.33,11.0,No,Discharged,2.0
+849,51,Female,DIABETES,Blood Test   ,7493.87,23.0,Yes,Stable,0
+665,21,Male,Asthma,Chemotherapy,2779.27,21.0,No,Discharged,3.0
+357,72,Female,Brnnchitis,Chemotherapy ,3349.28,,No,Discharged,3.0
+826,27,Female,,endoscopy ,5465.95,,No,discharged ,2.0
+710,62,male,Bgonchitis  ,Consultation,3157.24,7.0,No,Stable,1.0
+220,62,Female,Bronchitis,MRI Scan  ,4183.85,3.0,No,Transferred,2.0
+170,43,Male,,DIALYSIS,4684.39,,No,Discharged ,4.0
+550,81,Female,Migraine,Consultation,7464.4,NaN,No,Discharged,3.0
+712,88,Male,Hypertension,GENERAL CHECK-UP   ,3749.93,19.0,No,Discharged ,1.0
+645,35,Male,Appendicitis,fndoscopy,3759.11,,No,discharged,3.0
+473,62,Male,diabetes,aaccination,7129.27,2.0,No,Discharged,4.0
+768,85,Female,appendicitis,Endoscopy,50000,,No,Dischargee,1.0
+131,71,Male,Appendicitis,General Check-up,9307.78,23.0,No,Dischprged ,3.0
+100,12,Male,influenza,mialysis,6090.13,16.0,No,Stable,3.0
+260,N/A,Female,INFLUENwA,Blood Test,7689.7,28.0,No,,0
+651,74,Male,Hypertension,CONSULTATION,,12.0,No,Dischadged,2.0
+772,27,Male,BRONCHITIS,Surgery,4556.33,3.0,No,Discharged,1.0
+271,54,Male,Diabetes ,physical therapy,3400.7,1.0,No,transferred,1.0
+264,24,Male,Fracture ,General Check-up,7667.53,,No,discharged,2.0
+970,26,female ,Migrpine,GENERAL CHECK-UP,4717.99,19.0,No,Transferred,3.0
+721,9,Male,Hypertension,chemotherapy,973.88,26.0,No,Discharged   ,1.0
+309,17,Male,bronchitis,Dialysis,6788.59,12.0,Yes,,3.0
+844,67,Male,influenza,Endoscopy,9865.43,11.0,Yes,Discharged,
+784,11,Female,Pneumonia,general check-up  ,4380.56,2.0,No,Dibcharged,1.0
+158,120,Female,,GENERAL CHECK-UP  ,5294.39,9.0,No,Discharged,3.0
+619,8,Male,pneumonia,CHEMOTHERAPY,8424.49,17.0,No,Stable,2.0
+325,29,Male,Heart Disease,Consultation,9957.49,16.0,No,Discharged,3.0
+819,46,Female,Asthma,Bloow Test   ,4484.02,26.0,No,,3.0
+459,46,Male,,Surgery,1187.04,10.0,Yes,Dischargod,3.0
+425,7,Male,ASTHMA,Dialysis,1959.88,25.0,No,Discharged,2.0
+795,40,Male,,SURGERY,865.98,1.0,No,Discharged,1.0
+823,10,Male,Influenzh,Chemotherapy,9305.98,6.0,No,Dascharged,5
+624,48,Male,diabetes,Blood Test,84.24,13.0,No,discharged ,3.0
+91,86,Male,Asthma,Endoscopy,2270.16,2.0,No,Tiansferred ,2.0
+472,83,Female,appendicitis,physical therapy,5097.75,1.0,No,Discharged,High
+351,34,Female,fracture,CHEMOTHERAPY,3613.66,19.0,Yes,Discharged,4.0
+341,34,Male,FRACTURE,Consultation,3968.56,2.0,No,Dibcharged ,2.0
+43,##,Male,,mri scan,109.1,7.0,No,Discharged,0
+686,81,male ,Appendicitis,Dialysis,9618.21,22.0,Yes,DISCHARGED,2.0
+898,38,Female,Asthma   ,Surgery,7808.28,4.0,Yes,Discharged,3.0
+934,87,Female,Asthra,MRI SCAN,5596.86,7.0,No,Discharged,4.0
+868,51,Female,fracture,general chelk-up,1705.42,18.0,No,Discharged  ,4.0
+225,78,FEMALE,,SURGERY,285.07,29.0,No,discharged,1.0
+101,72,Male,ASTHMA,Physical Therapy,8570.22,27.0,No,Discharged,3.0
+564,16,Female,Influenza,Chemotherapy,1937.02,11.0,No,Discharged,1.0
+85,80,Female,Hypertension ,PHYSICAL THERAPY,8215.87,17.0,No,Transferred,3.0
+314,77,Male,Fracture,MRI Scan,,24.0,No,,
+994,1,Male,Appendicitis,,7119.81,4.0,No,discharged,4.0
+32,39,Female,Migraine,Vaccination,7958.88,11.0,No,,4.0
+578,79,Female,Influenza,General Check-up,144.32,24.0,Yes,Discharged,3.0
+384,28,Male,Dtabetes,CONSULTATION,9907.65,NaN,No,Discharged,4.0
+725,33,Male,FRACTURE ,Dialysis,3516.7,27.0,No,discharged,4.0
+981,65,Female,hypertension   ,vaccination,4193.26,6.0,No,Deceased   ,4.0
+232,23,Female,Migraine,chemotherapy  ,8019.83,25.0,Yes,Discharged ,3.0
+224,42,Male,Hearz Disease,MRI Scan ,5820.13,26.0,No,Discharged,4.0
+975,85,Male,Appendicitis   ,Vaccination,1722.2,19.0,No,Discharged  ,4.0
+906,66,Female,Pneumonia,blood test,3144.06,17.0,Yes,Discharged,1.0
+963,11,Female,DIABETES,,613.16,26.0,No,DISCHARGED,4.0
+25,65,Male,PNEUMONIA   ,Blood Test,242.44,7.0,No,,4.0
+644,29,Male,Asthma   ,vaccination  ,6270.67,29.0,No,Transferred,2.0
+246,39,Male,Fracture,endoscopy,4495.18,27.0,No,Discharged   ,1.0
+697,36,Female,,Surgery,FREE,,No,Discharged,1.0
+927,67,Male,Heart Disease ,Chemothermpy ,1790.55,,Yes,Discharged,1.0
+643,48,Female,Migrainq,General Check-up,4981.0,3.0,No,DISCHARGED,2.0
+117,80,Female,,GENERAL CHECK-UP,1653.52,,No,Stable,2.0
+765,N/A,Male,Bronchitis,General Check-up,4569.33,,No,Discharged,1.0
+756,48,Female,PNEUMONIA  ,Blood Test,8282.34,7.0,No,discharged   ,3.0
+437,77,Female,Diabetes,BLOOD TEST  ,8554.15,16.0,No,Discharged,3.0
+492,29,Male,MIGRAINE,Endoscopy,6233.7,11.0,No,DISCHARGED ,4.0
+952,61,Male,Migraine   ,chemotherapy,545.18,,Yes,Discharged   ,2.0
+913,74,Male,,,3105.1,18.0,No,Discharged,
+623,80,FEMALE,,BLOOD TEST,9312.27,13.0,No,Discharged,2.0
+954,64,Female,Astema ,Vaccination  ,4202.22,29.0,No,DIfCHARGED,1.0
+964,73,Female,Heart Disease,Endoscopy,50000,,No,Discharged,3.0
+331,69,Female,diabetes,General Check-up,3090.56,18.0,No,Stable,4.0
+925,52,Kadın,INFLUENZA,surgery,8327.99,3.0,No,TRANSFERRED,4.0
+136,84,Male,,MRI Scan,2791.09,16.0,No,Transfnrred,1.0
+701,62,Female,,,4098.37,3.0,No,Discharged  ,4.0
+615,23,Male,Diabetes,Consultation,3490.87,21.0,No,Transferred,4.0
+5,73,Female,Hypertension   ,Physical Therapy,9297.59,7.0,No,Dimcharged,1.0
+453,58,Male,Diabetes ,MRI Scan,2007.24,6.0,No,Discharged,3.0
+830,36,Male,,chemotherapy   ,1663.52,28.0,No,STABLE,2.0
+806,123,Female,Migraine,Physical Therapy,3999.56,3.0,No,Discharged,1.0
+569,75,Female,HYPERjENSION,Physical Therapy,3390.33,22.0,Yes,Discharged,2.0
+625,76,Female,Influenza,MRI Scan,7915.83,2.0,Yes,,3.0
+600,61,Male,FRACTURE,Physical Therapy ,9395.56,bir gün,Yes,,2.0
+92,53,Male,Bronchitis,Vaccination ,,25.0,No,discharged,
+426,82,Female,Heart Disease   ,,8937.58,15.0,No,,3.0
+455,43,Male,Appendicitis,blood test,3713.46,bir gün,No,Disaharged   ,4.0
+549,53,Male,bronchitis,Chemotherapy,,13.0,No,Discharged,2.0
+729,11,Female,APPENDICITIS,surgery,5275.9,18.0,No,,
+477,79,Female,Asthma ,Chemotherapy,1893.91,22.0,No,Discharged  ,3.0
+56,85,Male,Migranne,Dialysis  ,3586.42,19.0,No,Discharged,2.0
+580,21,Female,FRACTURE,Physical Therapy  ,6145.93,19.0,No,Transferred,4.0
+538,44,Female,Migraine,MRI SCAN,8716.91,3.0,No,Discharged,2.0
+914,67,Female,heart disease ,Chemotherapy,9411.96,27.0,No,Transferred,2.0
+73,58,Female,Fracture   ,,4161.55,25.0,No,DISCHARGED,3.0
+648,64,m,Migraine,Physical Therapy,7917.69,2.0,Yes,Stable,2.0
+30,88,Female,Pneumonia,MiI Scan,7599.84,1.0,No,Discharged,6
+586,51,Male,,Physical Therapy,3527.82,14.0,No,Discharged,2.0
+376,33,Male,,Consultation,7164.45,17.0,No,DISCHARGED,3.0
+29,86,Female,bronchitis,Piysical Therapy,5274.47,29.0,No,Discharged,4.0
+171,87,Female,HEART DISEASE  ,dialysis,9853.73,29.0,No,Transferred,3.0
+84,31,Male,Asthma,Vaccinction,5239.56,3.0,No,Stable,1.0
+5,73,Female,Hypertension   ,khysical Therapy,$678.74,7.0,No,Discharged,1.0
+941,60,Female,Pneumonia,CHEMOTHERAPh,7485.99,9.0,No,DISCHARGED,1.0
+479,13,Male,ASTHMA,vaccination,4183.44,11.0,No,discharged,3.0
+869,5,Male,Appendicitis,Chemotherapy,4110.63,10.0,No,discharged,3.0
+741,120,Male,HEART DISbASE,Chemotyerapy,6632.22,2.0,No,DISiHARGED,1.0
+594,8,Male,HEART DISEASE,Surgery,7397.07,21.0,No,,4.0
+115,75,Male,APPENDICITIS,DIALaSIS,9216.64,7.0,No,,2.0
+525,5,Male,,Vaccination,4499.34,15.0,Yes,STABLE,
+130,5,Male,Migraine,,122.98,2.0,No,Discharged,4.0
+214,71,Female,Hypertension,Dialysis,6207.48,22.0,No,STABLE,0
+469,81,Female,Fracture,Endoscopy,1631.82,22.0,Yes,Discharged,2.0
+441,23,Male,Migraine,Blood Test ,2796.9,1.0,No,Discharged,3.0
+212,84,Female,Migraine,Physical Therapy,4569.89,10.0,Yes,veceased,1.0
+520,13,Male,ASTHMA ,Vaccination,7304.28,12.0,No,Tjansferred,4.0
+886,13,Male,bronchitis ,ENDOSCOPY,1624.7,19.0,No,Discharged   ,3.0
+727,27,Male,Fracture,Surgery,3008.58,9.0,No,discharged,1.0
+303,20,Male,Heart Disease  ,MRI Scan,8922.08,18.0,No,Discharged  ,3.0
+219,9,Female,Hypertension,Consultation,3593.41,4.0,No,discharged ,2.0
+53,68,Male,Fracture,Dialysis,7422.44,17.0,No,Discharged ,4.0
+853,55,Female,Fracture,PHYSICAL THERAPY,9859.15,16.0,No,discharged,3.0
+516,31,Female,asthma  ,Blood Test,2333.22,22.0,No,discharged ,4.0
+67,43,Female,Pneumonia,Endoscopy,9585.79,11.0,No,Discharged   ,2.0
+294,63,Female,Diabetes,PHYSICAL THERAPY ,3853.08,19.0,No,Discharged ,2.0
+662,58,Male,Bronchitis ,dialysis,50000,2.0,No,Stable,3.0
+436,88,Male,Influenza,Chemotherapy  ,FREE,20.0,Yes,Discharged ,4.0
+609,39,Female,Appendicitis,surgery,9343.65,16.0,No,Deceased,2.0
+45,79,Male,Diabetes,MRI SCAN ,3382.63,11.0,No,Transferred,
+277,45,Male,,Chemotherapy,,14.0,No,discharged,4.0
+251,3,Female,Diabetes,Blood Test,1538.64,10.0,No,gischarged,1.0
+778,22,Female,HEART DISEASE,surgery,9602.95,15.0,No,discharged ,4.0
+366,55,Female,Bronchitis ,CONSULTATION,5987.64,22.0,No,Discharged,2.0
+740,64,Female,Bronchitis,Consultatiun,7530.06,6.0,No,Discharged,
+133,73,Male,Influenza,Dialysis,2377.53,,No,Discharged,4.0
+112,61,Male,BRONCHITIS,MRI Scan,,12.0,No,Discharged,3.0
+875,14,Male,Hypertension  ,CONSULTATION,5989.87,16.0,No,discharged,2.0
+124,32,Male,,dialysts,3623.35,2.0,No,,4.0
+41,44,Male,Pneumonia,endoscopy,5468.74,1.0,No,Discharged,3.0
+289,78,Female,HEART DISEASE,Endoscopy,5665.33,25.0,No,Discharged,2.0
+276,69,Female,,consultation,9058.84,28.0,No,Discharged,2.0
+2789,38,Female,Pneumonia,MRI Scan,4394.35,25.0,Yes,Discharged,3.0
+371,10,Female,Bronchitis,Surgery,8106.45,7.0,Yes,discharged,1.0
+935,83,Male,Heart Disease,General Check-up,bir bin,11.0,No,Discharged,4.0
+590,46,Male,Heart Disease,Dialysis,622.95,24.0,No,discharged,4.0
+483,49,Male,Migraine,,2513.43,12.0,No,Discharged,1.0
+841,8,Female,Influenza ,Endoscopy,8891.42,13.0,No,discharged,
+495,63,male,Bronchitis,genrral check-up,8989.44,18.0,No,DISCHARGED,3.0
+603,68,Male,Pneumonia,SURGERY,4187.34,,No,DISCHARGED,1.0
+690,88,Male,Migraine   ,Blood Test,4033.59,21.0,No,Disqharged,4.0
+764,34,Male,,Dialysis,1985.13,15.0,No,Discharged,5
+918,83,Female,fracture,General Check-up,5692.12,26.0,No,Discharged,
+871,75,Female,Bronchitis,Consultation   ,230.89,18.0,No,DISCHARGED,
+239,81,Female,hyperoension,mri scan,4798.36,iki hafta,No,Discharged,3.0
+677,65,Female,Hypertension   ,VACCINATION,5789.48,27.0,No,Discharged,1.0
+44,24,Male,Appendicitis  ,Vaccination,,26.0,No,discharged   ,
+12,53,Female,Influenza,General Check-up,2111.94,,Yes,Discharged ,4.0
+943,9,Male,asthma,General Check-up,174.29,9.0,No,Deceased,2.0
+799,68,Male,asthma,Endoscopy,9164.13,19.0,No,Discharged,3.0
+222,12,Female,Pneumonia,General Check-up,4310.94,7.0,No,Discharged,4.0
+275,44,Female,FRACTURE,Chemotherapy,1477.98,2.0,No,Discharged,4.0
+679,34,Male,FRACTURE,General Check-up,,23.0,No,Discharged,
+803,75,Female,Pneumonia,Dialysis,$8557.26,29.0,No,Discharged   ,1.0
+979,26,Male,Migraint,VACCINATION,,,No,Discharged,2.0
+848,10,Male,Pneumonia,,8545.84,27.0,No,Deceased,4.0
+28,69,Female,Heart Diseasr   ,General Check-up,8250.86,1.0,No,discharged,4.0
+23,71,Male,DIABETES,,8151.67,23.0,Yes,Discharged,0
+310,65,Female,Appendicitis,Dialysis ,7984.19,29.0,No,discharged,2.0
+999,63,Male,asthma ,chemotherapy,3479.72,9.0,No,Transferred,3.0
+9,11,Female,HYPERTENSION,Blood Test,2842.52,28.0,No,DISCHARGED,4.0
+337,79,Male,Appendicitis,Chemotherapy  ,107.31,3.0,No,Transferred,3.0
+186,54,Female,Asthma ,MRI Scan,5175.44,7.0,No,Discharged,2.0
+431,22,Male,Asthma,General Check-up,8423.87,bir gün,No,Discharged,2.0
+242,73,Female,Asthma,Endoscopy,$3069.72,0,No,Dischargew,2.0
+467,75,Female,INFLUENZA  u,Physical Thergpy,454.93,26.0,Yes,Deceased,2.0
+488,55,Female,hPPENDICITIS   ,Endoscopy,5503.24,16.0,No,DISCHARGED,3.0
+292,1,m,Heart Disease,General Check-up,5862.1,3.0,No,Dischxrged,2.0
+936,68,Female,Asthma ,CONSULTATION,5697.06,15.0,No,Stable   ,2.0
+89,50,Male,Pneumonia,,130.84,11.0,No,DISCHARGED   ,
+861,48,Female,,Vaccination,9344.93,4.0,No,Discharged,
+649,6,Female,Fracture,General Check-up ,6327.93,4.0,Yes,Digcharged,2.0
+95,26,Male,Fracture,Dialysis ,533.21,15.0,No,Discharged,10
+825,74,Female,heart disease,vaccination,4892.82,7.0,No,DISCHARGED,2.0
+945,9,FEMALE,hypertension,dealysis,2004.43,16.0,No,Discharged,3.0
+587,27,Male,influenza,Surgery,4710.93,8.0,No,Discharged,3.0
+122,88,Male,Hypertension ,pialysis,,23.0,No,Discharged,1.0
+950,34,Female,Migraine  ,Chemotherapy,8973.45,21.0,No,Discharged,2.0
+987,36,Male,Heart Dieease   ,Surgery   ,,19.0,No,,4.0
+151,108,Female,Appendicitis,Blood Test,4328.74,14.0,No,Discharged,4.0
+256,61,Male,Diabetes,ENDOSCOPY,4833.12,9.0,No,Stable,-1
+139,69,Male,Bronchitis,General Check-up  ,9100.42,18.0,Yes,Discharged,1.0
+301,60,Female,asthma  ,mri scan  ,8846.45,5.0,Yes,Discharged ,1.0
+422,79,Female,Heart Disease,,7747.7,1,No,Discharged,1.0
+657,8,Male,Influenza  ,General Check-up,1225.7,22.0,No,Discharged ,1.0
+944,1,Male,Asthma,dialysis,1893.67,9.0,Yes,discharged,3.0
+155,24,Female,Pneumonia,Dialysis,7186.1,7.0,No,Transferred,4.0
+463,30,Female,,chemotherapy,1215.09,9.0,No,discharged,
+879,74,Male,diabetes   ,VACCINATION,806.35,26.0,No,Discharged,High
+445,57,Male,asthma,Vaccination ,5837.33,28.0,No,Discharged,3.0
+189,2,Female,Fracture,DIALYSIS,6855.66,7.0,No,Transferred,4.0
+312,30,Male,diabetes,Dialysis,9185.73,6.0,No,Discharged,4.0
+476,34,Female,ASTHMA,Blood Test,997.17,1.0,Yes,Discharged,
+907,12,Female,,surgery,6237.69,6.0,No,DISCHARGED,2.0
+486,4,Female,Bronchhtis,Chemotherapy,265.66,6.0,No,Discharged,3.0
+86,49,Female,HEART DISEASE,Vaccination,8859.06,,Yes,Tpansferred,1.0
+240,83,Male,Hypertension ,Vaccination,,28.0,No,Discparged,4.0
+996,50,Kadın,migraine,Consultation,3177.8,19.0,No,Stable   ,
+820,55,Male,Pneumonia ,Physical Therapy   ,1401.26,2.0,No,Discharged,3.0
+87,56,Male,ASTHMA,Physical Therapy,7157.6,26.0,No,DISCHARGED,2.0
+912,26,Female,Asthma,MRk Scan,4926.38,20.0,No,Discharged,4.0
+827,46,Female,Heagt Disease,Endoscopy  ,5084.04,26.0,No,Discharged,3.0
+978,2,Female,hypertension,ENDOSvOPY,2988.14,,No,Discharged,4.0
+966,13,Kadın,Diabetes,physical therapy,,2.0,No,Discharged  ,3.0
+817,30,Female,APPENDICITIS,MRItScan,8159.7,29.0,No,discharged,4.0
+507,27,Male,Heart Disease,Surgery,1726.66,16.0,Yes,TRANSFERRED,1.0
+36,39,Female,MIGRAINE   ,Vaccination,8772.61,14.0,No,Stable,2.0
+4,83,Female,Fracture,General Check-up,1690.47,19.0,No,mransferred,2.0
+985,58,Female,Diabetes,Physical Therapy,2652.74,6.0,No,Stable,3.0
+805,73,Male,Influeuza,Chemotherapy   ,5546.66,28.0,No,Discharged,5
+592,86,Male,Asthma,blood test,7540.78,3.0,No,Discharged,3.0
+541,53,Female,DIABETES,Chemotherapy,7275.33,2.0,No,Discharged   ,3.0
+786,88,Male,fracturez ,Physical Therapy,8742.98,6.0,No,Discharged,1.0
+84,31,Male,asthma,Vzccination,5239.56,3.0,No,STABLE,1.0
+282,87,Male,pneumonia,General Check-ud,7731.49,3.0,No,Dischaaged ,3.0
+293,32,Male,Asthma,Surgery ,,20.0,No,Discharged,3.0
+632,80,Female,,Physical Therapy,8299.33,7.0,No,Transferred,1.0
+859,42,male ,Fracture,MRI SCAN,9119.18,uzun süre,Yes,discharged,1.0
+399,2,Male,,general check-up,$7532.36,13.0,No,transferred,4.0
+530,81,Female,ASTHMA,Blood zest,3062.25,20.0,No,Discharged,
+218,67,Male,asthma,surgery   ,707.7,5.0,No,Stalle,2.0
+924,60,Female,,Physical Therapy,6446.33,23.0,No,Discharged,3.0
+259,66,Female,Bronchitis,Blood Test,$1399.7,17.0,No,Stable,2.0
+248,29,Female,Heart Disease,endoscopy,6078.48,9.0,No,discharged,2.0
+522,32,Male,PNEUMONIA,Dialysis   ,2381.81,2.0,No,lISCHARGED,4.0
+528,26,Female,Bronchitis,Physicnl Therapy,,26.0,No,DISCHARGED,2.0
+734,35,Male,Heart Disease,CONSULTATION,9894.15,18.0,No,Discharged,3.0
+780,85,Male,Diabetes,Surgery,4356.97,5.0,No,DISCHARGED,2.0
+382,61,Female,Migraine ,dialysis,6959.99,16.0,No,Discharged,3.0
+708,9,Male,Hypertension   ,Dialysis   ,6939.91,27.0,No,Discharged,2.0
+381,49,Male,Fracture,MRI Scan,8104.07,11.0,No,Discharged,4.0
+478,10,Male,Influenza,CONSULTATION   ,2084.95,22.0,No,Disccarged,3.0
+930,3,Male,Diabdtes,Vaccination,5652.86,15.0,Yes,Discharged,
+515,1,Female,Migraine ,,5230.25,8.0,No,TRANSFERRED,1.0
+680,53,Female,Pneumonia,Chemotherapy,8627.32,9.0,No,Transferred,4.0
+542,17,Female,ASTHMA   ,Consultation,2868.17,16.0,No,Discharged  ,3.0
+99,70,Female,Appendicitis,General Check-up,1216.79,15.0,Yes,Discharged,4.0
+178,67,Male,Heart Disease,Surgery,7014.32,12.0,No,Discharged,3.0
+13,89,Male,HEART DISEASE,Blood Test,9317.44,9.0,Yes,Discharged,2.0
+949,26,Female,heart disease,MRI Scan,8809.85,100,No,DISCHARGED,4.0
+236,27,Female,Bronchitis,consultation,8906.5,23.0,No,Discharged,2.0
+508,31,Male,Bronchitis,uialysis,,20.0,No,Stable,2.0
+796,85,Female,,Chemotherapy,,20.0,No,,2.0
+420,64,Female,Diabetes,PHYSICAL THERAPY ,6877.32,20.0,No,Dischaoged,3.0
+519,76,Male,Diabetes,chemotherapy,7019.62,10.0,No,Discharged,1.0
+732,52,Male,,Surgery,5240.99,11.0,No,Discaarged ,4.0
+608,48,Female,Pneumonia,Vaccination,3397.04,9.0,No,Discharged,5
+655,24,Female,Migraine ,Endoscopy,4288.85,22.0,No,discharged,2.0
+249,46,Male,hypertension,MRI Scan,3046.94,1.0,No,Discharged   ,1.0
+864,2,Male,Appendicitis,Dialysiw ,10,6.0,No,discharged,3.0
+42,17,Female,DIABETES  ,vaccinatiod,2534.99,4.0,No,Discharged,2.0
+449,86,Male,Fracture,blood test,1357.45,19.0,No,discharged,2.0
+245,84,Male,Hypertjnsion,,6189.9,11.0,No,Discharged,4.0
+658,28,Male,Heart Disease,mri scan,1582.39,25.0,No,Stable,-1
+782,31,Male,APPENDICITIS,Vaccinatbon,10,28.0,No,Discharged,4.0
+174,7,m,FRACTURE,MRI Scan,6802.53,12.0,No,Transferred,4.0
+424,18,FEMALE,Heart Disease,mri scan,998.93,,No,Discharged,2.0
+880,85,Male,Asthma,Endoscopy,6837.22,22.0,No,DISCHARGED,4.0
+229,21,Female,hypertension,consultation,9919.26,15.0,No,Discharged,4.0
+533,31,Male,Influenza,Physical Therapy,844.26,18.0,No,,
+127,25,Female,Asthma,General Check-up,5892.73,12.0,No,Discharged,4.0
+458,47,female ,Influbnza,Consultation,928.97,20.0,No,Discharged,1.0
+206,63,Female,xigraine,Surgery,5161.2,17.0,No,Discharged ,4.0
+59,79,Female,pneumonia,Physical Therapy   ,2272.51,25.0,No,Stable,4.0
+787,63,Female,pneumonia,General Checd-up,3726.35,13.0,No,dischurged,
+618,34,Female,Appendicitis,Surgery   ,7743.47,,No,DISCHARGED   ,3.0
+758,82,Male,fracture,PHYSICAL THERArY ,4135.21,19.0,No,,1.0
+273,22,Male,Appendicitis,Dialysis,1768.32,,No,STABLE,3.0
+669,24,Female,Migraine,Endoscopy ,6176.63,1.0,No,Discharged  ,4.0
+79,18,Female,heart disease   ,MRI Scat,6533.8,3.0,Yes,Discharged ,3.0
+682,59,Male,BRONCHITIS,Consultation,8174.85,17.0,No,discharged  ,3.0
+496,85,Male,Influenza,SURGERY,7213.65,12.0,No,Dischaaged ,1.0
+751,8,Female,INFLUENZA,PHYSICAL THERAPY,,19.0,Yes,Discharged,3.0
+973,81,Female,Pneumonia,Vaccpnation,662.46,14.0,No,Discharged,2.0
+319,72,Male,Hypertension,Consultation ,6958.92,16.0,No,Diycharged,4.0
+489,53,Female,Pneumonia,BLOOD TEST,4140.93,2.0,No,STABfE,3.0
+761,3,Male,Pneumonia  ,Endoscopy,50000,17.0,No,Discharged,1.0
+909,89,Female,Heart Disease,ENDOSCOPY,2152.38,8.0,No,Deczased,3.0
+51,62,Female,Frayture,ENDOSCOPY,1210.39,15.0,No,deceased,1.0
+203,44,Female,BRONCHITIS ,Endoscopy,1592.83,16.0,No,Discharged,3.0
+367,146,Male,Hypertension,Vaccination,6927.37,12.0,No,,1.0
+6,89,Male,Heart Disease,Dialysis,8474.29,22.0,No,Discharged,4.0
+759,4,Male,heart disease,Consultation,2343.83,1.0,No,DISCHARGED,2.0
+217,61,Female,Fracture  ,,1114.93,11.0,No,Transferred   ,0
+774,89,Male,HYPERTENSION,Blood Test,3941.05,26.0,No,Deceased,4.0
+185,52,Female,Appendicitis   ,Dialysis,749.35,13.0,Yes,Discharged,3.0
+537,40,Female,Astqma,Consultation,6742.16,23.0,No,discharged ,-1
+704,53,Female,Influenza,Chemotherapy  ,6484.63,7.0,No,Discharged,3.0
+403,18,Male,Bronchitis,Vaccination,4285.84,24.0,Yes,STABLE,3.0
+961,9,Male,Pneumonia,Surgery  ,9755.28,11.0,No,DISCHARGED,3.0
+175,84,Male,Pneumonia  ,Endoscopy ,3305.02,12.0,No,DISCHARGED,2.0
+917,88,Female,Diabetes   ,chemotherapy,8908.44,6.0,No,Discharged,2.0
+815,1,Female,ASTHMA  ,CHEMOTHERAPY,3544.58,25.0,No,Discharged,Low
+153,9,Male,Hypertension,Physical Therapy,633.92,NaN,No,Discharged,3.0
+252,5,Female,Bronchitis ,Physical Theraiy,4837.8,7.0,No,Discharged ,High
+320,4,Male,migrainb,MRI Scan,5847.01,17.0,No,Tranrferred,
+527,31,Male,Heart Disease,General Check-up  ,5199.83,bir gün,No,Transferred,3.0
+792,78,Female,Hypertension,consultation   ,8168.23,14.0,No,Staile,
+484,88,Female,Fracture   ,physical therapy,2997.61,,No,Stable,4.0
+156,37,Female,BRONCHITIS,endoscopy,9201.77,12.0,No,,1.0
+915,10,Male,Appendicitis,Blood Test,2374.2,15.0,No,DISCHARGED,4.0
+200,50,Female,Hypertension,MRI SCAN,4150.62,22.0,No,Discharged,1.0
+60,31,Male,migraine   ,general check-up,7951.27,29.0,No,discharged,1.0
+602,10,Female,FfACTURE,ENDOSCOPY   ,8825.7,8.0,Yes,Discharged,2.0
+270,60,Male,Appendicitis,CONSULTATION,50000,6.0,No,Deceased  ,4.0
+695,18,Male,Fracture ,chrmotherapy  ,7729.6,21.0,No,,2.0
+672,80,Male,Bronchitis,GeneraleCheck-up,8033.67,15.0,No,DISCHARGED,
+670,86,Male,,Dialysis,3776.01,28.0,No,Discharged,4.0
+908,53,Male,Hypertension,Endoscopy,1898.56,29.0,No,Discharged,1.0
+673,63,Female,Heart Disease,Confultation   ,2735.49,24.0,No,Transferred   ,
+365,28,Female,Fracture,,9568.88,9.0,No,Discharged ,1.0
+268,48,Male,Pneumonia,General Check-up,579.15,9.0,Yes,Discharged,
+326,3,Male,PNEUMONIA,Endoscopy,4251.28,15.0,No,Discharged,2.0
+865,78,Female,Fracture,Chemotherapy,3129.84,24.0,No,Discharged,4.0
+40,86,Female,diabetes,,8226.25,5.0,No,Discharged,3.0
+154,67,Male,Influenza,DIALYSIS,6259.37,23.0,No,discharged,
+633,53,Female,HEART jISEASE,Dialysis   ,4017.65,28.0,No,stable,-1
+818,41,Male,Diabetes,Chemotherapy,7483.21,22.0,No,Stxble  ,1.0
+691,28,Male,,MRI SCAN,515.81,6.0,No,Discharged,2.0
+421,74,Female,Heart Disease ,Vaccination,2653.23,6.0,No,rischarged,1.0
+696,44,male,Amthma  ,Chemotherapy,8471.41,21.0,No,Discharged,1.0
+890,30,Male,Hypertension,rRI SCAN,iki bin beş yüz,26.0,No,,2.0
+461,1,Male,Appendicitis ,MRI Scan   ,2793.65,13.0,No,Stable,3.0
+956,51,Female,Pneumonia,mri scan,1884.28,16.0,Yes,discharged,3.0
+781,14,Female,hypertension,Dialysis,3726.34,22.0,Yes,Discharged,
+947,47,Female,Appendicitis,General Check-up,3876.55,7.0,No,Discharged,4.0
+568,29,Male,Hypertension,physical therapy,,27.0,Yes,DISCHARGED  ,4.0
+375,12,Male,Pneumonia,,7655.94,8.0,Yes,DISCHARGED,3.0
+389,57,Female,Appendicitis,Consultation,857.98,12.0,Yes,Discharged,1.0
+280,37,Male,pneumonia,General Check-up,6382.68,,No,Discharged ,4.0
+555,77,Male,Heart Disease,Consultation,5423.58,11.0,No,Deceasew,3.0
+700,25,Male,Pneumonia,General Check-up,7473.35,28.0,No,Discharged,Low
+573,33,Female,yIGRAINE,Blood Test,5716.92,28.0,No,transferred,2.0
+692,3,Male,Heart Disease,general check-up,3126.79,4.0,No,,1.0
+762,46,Male,,CHEMOTHERAPY,6230.12,18.0,No,Discharged,
+429,63,Male,Heart Disease,Chemotherapy,1695.5,25.0,No,Dischzrged ,2.0
+8,42,Female,Bronchitis,Physical Therapy,3342.59,21.0,No,DISCHARGED,3.0
+233,2,Female,Pneumonia,MRI SCAN,,6.0,No,discharged,1.0
+776,29,Male,Influenza,Physical Therapy,2583.91,29.0,No,,3.0
+726,13,Male,,,4905.74,3.0,No,dischawged,2.0
+97,14,Male,Pneumonia   ,blood test,$15852.59,5.0,No,Stable,High
+570,1,Female,influenza,Dialysis,3924.07,14.0,No,Discharged,1.0
+995,87,Male,,blood west,7354.7,8.0,No,Dischkrged,1.0
+402,79,f,Pneumonia ,Vpccination,2438.54,18.0,No,Discharged,3.0
+361,2,Female,migraine,Blood Test,9913.71,18.0,No,transferred,4.0
+656,101,Female,Migraine,MRI Scan,2709.87,6.0,No,TRANSFEmRED,-1
+231,30,Male,Fracture   ,Vaccination,,15.0,No,Discharged,3.0
+855,26,Male,Appendicitis,,306.5,,No,discharged,4.0
+324,39,Male,Heart Disease,Consultation,5051.87,27.0,No,Discharged,1.0
+874,39,Male,Pneumonia,Endoscopy,7028.14,6.0,No,Discharged ,1.0
+834,15,Female,heart disease,CONSULTATION,,22.0,Yes,Disclarged,2.0
+883,69,Female,Appendicitis,Chemotherapy,8036.21,17.0,Yes,Deceased,0
+998,25,Male,Pneumonia,Dialysis,4793.6,16.0,No,Discharged  ,1.0
+773,57,Erkek,influenza,Vaccination,8870.32,2.0,No,Discharged,2.0
+524,45,Female,asthma,Surgery,,26.0,No,,1.0
+266,83,Female,Migraine,General Check-up,6775.13,5.0,No,discharged,4.0
+38,69,Female,Bronchitis,Vaccination,5977.34,17.0,No,Stabee,4.0
+176,47,Male,Bronchitis,VACCINATION,8731.88,29.0,No,discharged,2.0
+348,88,Male,Influenza,MRI Scan,4739.44,17.0,No,Discharged ,4.0
+390,87,Female,Influenza,General Check-up,8504.51,,No,Transferred  ,3.0
+858,32,Female,Pneumonia,Chemotherapy,1980.9,23.0,No,Transferred,3.0
+715,47,Male,,Endoscopy,1416.41,13.0,No,tranoferred,1.0
+962,12,Female,Fracture,Surgery,7332.56,27.0,Yes,Discharged,
+791,88,Male,Fracture   ,Blood Test   ,8308.59,21.0,No,,2.0
+789,78,Female,Hypertension,PHYSICAL THERAPY,6322.16,21.0,No,Discharged   ,3.0
+620,54,Female,fracture,Endoscopy,4589.13,25.0,No,Discharged,1.0
+263,30,Female,Pneumonia  ,vaccination,4989.22,15.0,No,Discharged,High
+485,41,Male,MIGRAINE ,CHEMOTHERAPY,8532.01,6.0,Yes,Transferred,4.0
+311,80,Female,Migraine ,blood teut,7227.75,4.0,No,Deceased,2.0
+674,1,Female,PNEUMONIA,Consultation,6709.79,22.0,No,DISCHARGED,3.0
+354,30,FEMALE,Pneumonia,Conoultation,8569.98,13.0,No,Discharged,4.0
+345,67,Female,Fracture,MRI SCAN,4228.09,14.0,No,Discharged,
+510,66,Erkek,Influenza,,9735.57,uzun süre,No,Discharged,3.0
+955,49,Female,BRONCHITIS,mrk scan,9446.85,18.0,No,,4.0
+596,30,Female,HEART DISEASE,Consultation,3075.54,21.0,No,DISCHARGED,
+1,37,Male,HYPERTENSION,Dialysis   ,5803.06,5.0,No,Discharged   ,2.0
+718,132,Kadın,Fracture   ,Blood Test,2412.48,29.0,No,Transferred,4.0
+547,60,Female,rronchitis,Dialysis,4252.0,5.0,No,Discharged,2.0
+743,33,Male,Appendicitis,General Chfck-up,4498.9,11.0,No,Discharged d,3.0
+716,8,Female,Pneumonia,Consultation,9512.27,4.0,Yes,Discharged,
+475,78,Male,,,865.13,7.0,No,Discharged,
+456,15,Female,Fracture,chemotherapy ,2305.22,19.0,No,Stable,3.0
+464,29,Female,Asthma,Chemotherapy,4114.77,17.0,No,DISCHARGED ,3.0
+783,13,Female,Heart Disease,GENERAL CHECK-UP,6197.17,21.0,No,discharged  ,3.0
+638,45,Male,Bronchitis,Physical Therapy,327.45,17.0,No,Dischfrged,1.0
+641,25,female,heart disease,Surgery,9761.47,18.0,No,Discharged,3.0
+583,74,Female,Bronchitis,ENDOSCOPY,3849.17,10.0,No,STABLE,2.0
+443,61,Male,Migraine,MRI Scan,FREE,23.0,No,Deceased,2.0
+790,29,Male,Asthma,Consultatiow,5670.07,2.0,No,stable  ,4.0
+502,17,female ,Asthma,Dialysis,8097.32,,No,Discharged,1.0
+295,22,Female,appendicitis  ,Vaccination,6070.65,1.0,No,Discharged,4.0
+857,120,Male,DIABETES  ,Consultation   ,8305.37,,No,DECEAiED,3.0
+378,29,Female,Hypertension,dialysis,524.28,17.0,No,,3.0
+798,4,Male,Fracture,Blood Test,4548.88,8.0,No,discharged,4.0
+144,6,Male,Diabetes,Endoscopy  ,5519.25,8.0,No,DISCHARGED,1.0
+149,64,Female,HEART DISEASE,,8773.8,bir gün,No,Discharged,2.0
+534,2,Female,Pneusonia,Vaccination,6173.58,22.0,No,DISCHARGED,4.0
+21,40,Female,DIABETES,Chemotherapy,643.38,23.0,No,deceased,1.0
+196,19,Male,influenza,Vaccination,5766.51,14.0,No,Discharged  ,2.0
+401,34,Male,,BLOOD TEST,9940.15,,No,Discharged   ,2.0
+807,6,Female,Asthma,General Check-up,2697.19,11.0,No,discharged,
+598,5,Male,Influenza,blood test,,18.0,No,deceased,2.0
+891,5,Male,Fracture,General Check-up ,4407.55,26.0,No,DISeHARGED,3.0
+392,12,Female,xppendicitis,physical therapy,3753.18,4.0,No,,1.0
+681,105,Male,migraine,mri scan,7479.13,27.0,Yes,DISCHARGED,4.0
+64,49,Male,Bronchitis,CHEMOTHERAPY   ,510.31,7.0,No,DISCHARGED,3.0
+881,22,Female,,General Check-up,4053.01,27.0,No,Discharged,4.0
+850,31,Female,,GENERAL CHECK-UP,7502.36,10.0,Yes,Discharged,2.0
+579,50,Male,Fracture,Consultation,4337.08,15.0,No,Discharged,2.0
+349,43,Male,Influenza,Endoscopy ,$19789.22,14.0,No,Transferred,
+556,56,male,Fraceure,Physical Therapy   ,5762.52,10.0,No,DISCHARGED,1.0
+17,56,Male,Fracture,Consultatiyn,6113.27,8.0,Yes,discharged,2.0
+128,55,Female,Heart Disease,Blood Test,,11.0,No,DISCHARGED,1.0
+688,57,Male,BRONCHITIS,General Check-up,8019.59,,No,Discharged,4.0
+333,40,Male,HYPERTENSION,General Check-up,4064.99,14.0,No,Discharged,3.0
+247,87,Female,,Physical Therapy,4697.51,13.0,No,Discharged,1.0
+629,11,Male,Heart Disease,Endoscopy,3654.86,4.0,No,Discharged,2.0
+192,46,Male,Pneumonia,VACCINATION,4227.24,18.0,No,Discharged,2.0
+576,39,Female,Diabetes  ,Surgery,4878.19,18.0,No,Discharged ,2.0
+997,73,Female,Diibetes,General Check-up,8797.31,14.0,No,DISCHARGED,2.0
+675,87,Female,hypertension   ,Vaccination ,1837.29,9.0,No,Discharged,4.0
+121,35,Female,heart disease ,consultation,5785.96,8.0,No,DISCHARGED,1.0
+71,38,Male,bronchitis,Suroery,8098.32,22.0,No,Transferred,1.0
+565,116,Male,Heart Disease,General Check-up   ,8210.44,1.0,Yes,,2.0
+123,35,Male,Migraine,Endoscopy,,5.0,Yes,,2.0
+821,6,Female,Hypertension,Surgery,2488.96,23.0,No,Transferred,1.0
+466,86,Female,,Blood Test,,12.0,No,Discharged,2.0
+521,2,Female,Heart tisease,Surgery ,6630.32,12.0,No,Discharged   ,4.0
+80,17,Male,influenza,Dialysis ,2574.15,4.0,No,DISCHARGED,1.0
+31,62,Male,ASTHMA,Vaccination,8641.68,18.0,No,Deceased,
+582,11,Male,Bronchitis,Endoscopy,9476.87,15.0,No,Discharged  ,3.0
+33,32,Male,Hypertension,endoscopy,3003.96,16.0,No,Discharged,4.0
+668,37,Male,Fractuze,General Check-up,1783.09,6.0,No,DISCHARGED,4.0
+68,45,Male,diabetes,Chemotherapy ,7531.35,10.0,No,DISCHARGED,4.0
+321,81,Female,Influenza,consultation,5336.26,23.0,No,Stable ,1.0
+905,75,Male,Pneumonia,Chemotherapy  ,1854.51,9.0,No,dischakged,2.0
+194,52,f,HYPERTENSION,Consultation,5649.42,5.0,Yes,stable,3.0
+990,1,Female,,surgery   ,604.59,2.0,No,Dyscharged   ,2.0
+870,40,Female,bronchitis,MRI SCAN ,5546.51,,No,Discharged,1.0
+852,1,Male,Diabetes,,,8.0,No,discharged,4.0
+244,2,Male,Influenza  ,Vaccination,$13646.13,2.0,No,Discharged,1.0
+532,33,Male,Influenza,Physical Therapy,6605.27,11.0,No,Discharged,2.0
+27,6,Female,Heart Disease,Vaccination,1891.4,12.0,No,Discharged,2.0
+265,59,Male,Appendicitis,MRI Scan   ,262.45,28.0,No,DdSCHARGED,3.0
+297,31,Female,Migraine,,166.54,NaN,No,Discharged,3.0
+141,11,Female,,Endoscopy,9548.67,21.0,No,Discharged,3.0
+439,7,Male,Fracture,Physical Therapy,2985.58,,No,discharged,
+616,75,Female,,Chemotherapy,$8346.8,22.0,No,Dischaaged,1.0
+166,72,Erkek,Bronchitis,MRI Scan ,8939.11,22.0,No,Discharged,2.0
+195,11,Male,fracture,ENDOSCOPY  ,3658.49,29.0,Yes,Discharged,2.0
+257,14,Female,Hypertension,Surgery,6334.88,24.0,No,Discharged,1.0
+313,19,Female,Pneumonia,Generaw Check-up,4305.02,22.0,Yes,zischarged,4.0
+689,46,Male,Fractqre ,BLOOD TEST,9326.37,14.0,No,discharged,1.0
+465,16,Male,Fracture,Endoscopy ,7332.59,8.0,No,discharged   ,1.0
+785,32,Male,Appendicitis,MRI Scan  ,4520.63,26.0,No,Deceased,3.0
+347,68,Female,Hypertension,physical therapy,3961.03,,No,Discharged,3.0
+384,28,Male,DIABETES,Consultation,9907.65,28.0,No,DISCHARGED,4.0
+896,2,Female,Fracture,Chemotherapy  ,6999.23,7.0,No,discharged,4.0
+811,59,Male,Migraine,Chemotherapy,5050.86,25.0,No,discharged,1.0
+168,147,Female,Appendicitis,CHEMOTHERAPY,4434.22,NaN,No,wischarged,2.0
+57,45,Male,Appendicitis,consultation,841.01,7.0,No,Discharged,2.0
+916,3,Male,,surgery ,,7.0,No,STABLE,2.0
+493,37,Female,Heart Disease,dialysis,9199.53,27.0,No,TRANSFERRED,1.0
+397,5,f,,SURGERY,8333.67,25.0,Yes,Transferred,2.0
+183,36,Male,MIGRAINE,Blood Test  ,5718.77,18.0,No,Discharged,1.0
+221,43,Male,Bronchitis,Blood Test ,4543.71,5.0,Yes,Discharged,2.0
+509,16,Male,Diabotes,Blood Test,755.21,25.0,No,Discharged,3.0
+989,27,Female,heart disease,BLOOD TEST,9415.49,10.0,No,Discharged,2.0
+104,41,Female,Asthma,Sorgery ,4767.47,21.0,No,Discharged,2.0
+889,89,Male,Influenza,VACCINATION,50000,9.0,No,DoSCHARGED ,3.0
+481,21,Female,Hypertension,Chemotherapy,8927.21,7.0,Yes,Discharged,4.0
+237,38,Male,Influenza ,dialysis,3278.23,,No,STABLE,2.0
+223,55,Female,Bronchitis,,5994.54,,No,Stable,4.0
+490,45,Female,Appendicitis,Consultation,2804.02,5.0,No,Transferred,2.0
+474,87,Male,,Blood Test   ,5885.58,29.0,No,Discharged,2.0
+1708,57,Male,Bronchitis,General Check-up  ,8019.59,,No,Discharged,5
+254,10,Female,Hypertension,,179.94,26.0,Yes,Discharged,3.0
+442,15,Male,kigraine,Dialysis,2385.18,2.0,No,Discharged,4.0
+951,84,Female,Appendicitis,Endoscopy,7053.54,2.0,No,Deceased t,3.0
+499,59,Male,Influenza   ,,1013.85,8.0,No,DISCHARGED,0
+902,32,Female,hypertension,general check-up,7526.83,18.0,No,Stable,4.0
+444,80,Male,Appendicitis,MRI Scan,5954.44,11.0,No,transferred,1.0
+18,44,Female,Diabetes,Endoscopy,6295.93,21.0,No,discharged ,1.0
+640,40,Male,ASTHMA,Blood Test   ,745.28,10.0,Yes,Stable,1.0
+797,145,Female,Heart Disease  ,chemotjerapy,3266.0,28.0,Yes,Discharged,3.0
+810,15,Female,INFLUENZA,,3938.97,4.0,No,Discharged,4.0
+358,4,Male,hypertension   ,MRI SCAN,5412.18,,Yes,Discharged,
+635,46,Male,Pneumonia,Surgery   ,6805.21,25.0,Yes,Transferred,1.0
+446,74,Male,fracture  ,Endoscopy  ,297.81,12.0,No,Transferred,2.0
+296,69,Male,,VACCINATIOe,$18124.49,,No,Dischargei,1.0
+707,52,Female,Influenza,,1604.52,26.0,No,Discharged ,4.0
+116,34,Female,BRONCHITIS,Chemotherapy,5045.09,25.0,No,Dwscharged,4.0
+191,5,Female,influenza,,7272.69,100,No,Discharged,3.0
+306,28,Male,Bronchitis  ,Blood Test,3318.05,9.0,No,STABLE  ,0
+574,56,Male,Pneumonia  ,MRI Scan,404.23,23.0,No,stable,4.0
+201,62,m,ASTHMA,General Check-up,2882.8,16.0,No,Stable,2.0
+612,60,Male,heart disease,Surgery,1994.08,23.0,No,Discharged,4.0
+518,16,Male,Asthma,Physical Therapy  ,2970.1,14.0,No,deceased,4.0
+737,27,Male,bronchitis,Dialysis,4996.08,15.0,No,DIaCHARGED,
+536,88,Male,Hypertension,Consultation,bilinmiyor,5.0,No,Deceased,4.0
+593,18,Male,Heart Disease,MRI Scan ,96.39,25.0,No,Discharged,3.0
+72,16,Male,Influenza,Vaccination,508.91,27.0,No,Discharged,0
+363,74,Female,appendicitis,Endoscopy,,9.0,No,Discharged,1.0
+884,70,Male,Diabetes,Chemotherapy,9635.6,16.0,No,Discharged ,3.0
+959,63,Female,Hypertension,Surgery   ,1118.49,10.0,No,discharged,1.0
+438,49,Female,Migraine   ,Chemotherapy,,2.0,No,Dischsrged,3.0
+368,19,Male,ASTHMA ,Blood Test,2518.97,12.0,Yes,Discharged,4.0
+523,75,Female,migraine,blood test,7331.88,1.0,Yes,Deceased,4.0
+557,22,Male,Bronchitis   ,vaccination,8359.07,21.0,No,Discharged,Low
+769,69,male ,Asthma   ,CHEMOTHERAPY,5350.32,27.0,No,Deceased,2.0
+754,37,Female,Appendicitis   ,Dialysis,2346.08,6.0,No,discharged,2.0
+418,45,Female,HYPERTENSION,Surgery,8803.42,25.0,No,Discharged,3.0
+330,4,Female,DIABETES,General Check-up  ,4627.25,15.0,Yes,Dizcharged,1.0
+728,65,Female,Diabetes,Dialysis,9206.5,15.0,Yes,Discharged,3.0
+513,88,Female,Inpluenza,Physical Therapy,9655.9,,No,,4.0
+836,60,Female,Pneumonia,dialysis,9480.22,17.0,No,Discharged,1.0
+81,57,Male,Asthma,BLOOD TEST,2584.96,20.0,No,DISCHARGED,3.0
+847,##,Male,,,3393.88,24.0,No,discharged,3.0
+630,11,Female,ASTHMA,Consultftion,,5.0,No,Stable,1.0
+451,50,Female,Appendicitis,Consultation,3043.0,,No,Discharged,4.0
+646,70,Male,Diabetes,dialysis   ,940.09,11.0,No,Discharged ,3.0
+300,47,Male,BRONCHITIS,blood test  ,6618.81,11.0,No,Discharged,4.0
+159,31,Male,Fracture,MRI Scan,$12653.95,9.0,No,TRANSFERRED,4.0
+548,42,Female,,Physical Therapy,772.6,24.0,No,discharged,4.0
+628,60,Male,,CHEMOTHERAPY,5666.03,29.0,No,Discharged ,1.0
+10,NA,Female,Pneumonia,endoscopy,5900.24,25.0,No,discharged,3.0
+663,88,Female,FRACTURE,Endoscopy,2306.13,,No,Discharged,
+866,18,Female,MIGRAINE,MRI Scan,8332.31,,No,Discharged   ,3.0
+147,55,Male,Influenza,MRI Scan,5440.68,23.0,No,Discharged,4.0
+129,65,Female,MIGRAINE,Chemotherapy,$16680.31,6.0,No,Discharged,1.0
+181,45,Female,HYPERTENSIOq,MRI Scan,FREE,8.0,No,Stable,4.0
+55,57,Male,Appendicitis,MRI SCAN ,8172.94,11.0,No,Discharged,3.0
+35,11,Female,Fqacture,Surgery,1339.07,28.0,Yes,Discharged,2.0
+831,35,Male,FRACTURE,Chemotherapy,,1.0,No,Deceased,1.0
+921,3,Male,fracture,PHYSICAL THERAPY,9305.14,2.0,No,Discharged,2.0
+199,84,Female,Migraine   ,MRI Scan,5588.46,15.0,No,Dihcharged,1.0
+146,22,Male,Fracture ,Endoscopy,1394.23,14.0,No,stable,
+7,40,Male,Asthma,MRI Scan,5563.75,2.0,No,discharged,1.0
+126,37,Male,Bronchitis,,2909.31,18.0,No,DISCHARGED,2.0
+876,54,Female,Fracture ,dialysis ,2581.1,8.0,Yes,Dcscharged,2.0
+322,3,Female,Migraine   ,ENDOSCOPY,7507.12,4.0,No,DISCHARGED,1.0
+235,27,Male,DIABETES   ,Vaccination   ,2918.36,22.0,No,,1.0
+388,77,male ,,CONSULTATION,6773.91,3.0,No,Translerred,4.0
+535,18,Female,Heart Disease,Consultation,7408.61,14.0,No,Discharged   ,1.0
+2794,82,Female,Heart Disease  ,ENDOSCOPY,7869.38,5.0,No,Discharged,
+190,39,Female,heart disease,MRI Scan,,16.0,No,Discharged,3.0
+267,79,Male,MIGRAINE,General Check-xp,6134.69,24.0,No,Discharged,2.0
+164,75,Male,Migraine  ,endoscopy,9858.33,10.0,No,Discharged,1.0
+197,71,Male,HEART DISEASE,Endoscopy,7371.91,24.0,No,DISCHARGED,3.0
+860,38,Female,,vaccination,8096.8,1.0,No,Discharged,2.0
+683,36,Male,Pneumonia  ,DIALYSIS,1369.28,29.0,No,Stable,4.0
+885,29,Male,Heart Disease,,901.98,19.0,No,Transferred,1.0
+408,27,Female,Pneumonih,,2275.04,14.0,Yes,transferred,3.0
+208,13,Female,fracture,Vaccination,789.56,17.0,No,,2.0
+374,10,Female,Diabetes,Dialysis,6794.01,100,No,,5
+837,75,Male,Pneumonia,MRI SCAN  ,544.06,22.0,Yes,Discharged,1.0
+854,88,Female,Influenza   ,Surgery,7754.68,15.0,No,Discharged  ,3.0
+405,80,Female,INFLUENZA,MRI Scan,,22.0,No,Transferred,3.0
+88,73,Male,ASTHMA,MRI Scan,6715.29,,Yes,discharged,4.0
+763,25,Female,MIGRAINE,General Check-up,6869.7,13.0,No,Discharged,4.0
+172,63,Male,Heart Disease ,,8017.09,27.0,No,discharged,3.0
+52,67,Male,Migrtine,Endoscopy,6617.12,25.0,No,Discharged,1.0
+387,14,Male,APPENDICITuS,Dialysis,5785.97,20.0,No,Discharged,4.0
+182,42,Female,bronchitis ,Dialysis,2253.45,17.0,No,Discharged,2.0
+510,66,Male,INFLUENZA,,9735.57,11.0,No,Discharged,5
+755,4,Female,FRACTiRE,Endoscopy,8780.68,22.0,No,transfenred,2.0
+809,55,Male,Bronchitis   ,Blood Test,5611.05,28.0,No,DISCHARGED,4.0
+315,41,Female,HYPERTENSION,Vaccination,6918.63,19.0,No,Discharged,4.0
+2198,32,Female,Hypertension,General Chock-up,7526.83,18.0,No,Stable ,4.0
+328,35,Female,,Chemotherapy,$15950.87,15.0,Yes,,4.0
+511,6,Female,Influenza,Dialysis  ,9749.34,9.0,No,Discharged,3.0
+340,79,Female,Influenza ,chemotherqpy,1357.94,20.0,Yes,STABLE,1.0
+967,31,Male,Appendicitis,physical therapy,8792.21,uzun süre,No,Discharged,4.0
+838,32,Male,Migraine,PHYSICAL THERAPY,3276.55,14.0,No,Discharged,
+617,47,Male,diabetes,MRI Scan,622.45,21.0,No,Discharged,2.0
